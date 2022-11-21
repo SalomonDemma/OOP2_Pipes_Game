@@ -1,0 +1,13 @@
+﻿target_sources (oop2_ex04 PRIVATE "main.cpp"
+	                              "Tile.cpp"
+								  "Board.cpp"
+								  "GameManager.cpp"
+								  "Resources.cpp"
+								  "Sink.cpp"
+								  "Faucet.cpp"
+								  "Menu.cpp"
+								  "Pipe1Dir.cpp"
+								  "Pipe2Dir.cpp"
+								  "Pipe3Dir.cpp"
+								  "Pipe4Dir.cpp"
+								  "Graph.cpp")
